@@ -3292,6 +3292,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.02-00.42.50:441][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2019.08.02-00.42.50:647][629]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/FirstPersonExampleMapC3D38B3C480C9EF32A72DCB3AD9EB9D0.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.08.02-00.42.51:356][629]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/FirstPersonExampleMap_BuiltDataE9FE16084E2475862B7A31A4F811A665.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+<<<<<<< HEAD
 [2019.08.02-00.51.50:226][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.08.02-00.51.50:563][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.08.02-00.51.50:669][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
@@ -3649,3 +3650,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.02-00.51.59:665][613]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2019.08.02-00.51.59:685][613]LogExit: Exiting.
 [2019.08.02-00.51.59:701][613]Log file closed, 08/02/19 12:51:59
+=======
+>>>>>>> Jeremy
