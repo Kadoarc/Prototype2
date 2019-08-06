@@ -811,3 +811,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.06-23.31.52:883][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
 [2019.08.06-23.31.52:909][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2019.08.06-23.31.54:585][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-23.38.37:691][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.08.06-23.38.37:998][428]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Mall_Map_Auto15625206F49EA84232E30C3B83350168D.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/Maps/Mall_Map_Auto1.umap'
+[2019.08.06-23.38.38:000][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mall_Map' took 0.350
+[2019.08.06-23.38.38:000][428]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2019.08.06-23.38.38:002][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/ProjectilePineapple] ([1] browsable assets)...
+[2019.08.06-23.38.38:013][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/ProjectilePineapple.ProjectilePineapple]
+[2019.08.06-23.38.38:013][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/ProjectilePineapple]
+[2019.08.06-23.38.38:041][428]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/ProjectilePineapple_Auto1523EBB1348C744A57FFA06877F24915F.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/ProjectilePineapple_Auto1.uasset'
+[2019.08.06-23.38.38:042][428]LogFileHelpers: Auto-saving content packages took 0.041
