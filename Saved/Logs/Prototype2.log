@@ -3822,3 +3822,606 @@ Make sure 'FirstPersonCharacter_C' has been compiled for  Has Required Items
 [2019.08.06-09.56.38:438][711]SourceControl:  create mode 100644 Content/Inventory/Item/Carrot1.uasset
 [2019.08.06-09.56.38:438][711]SourceControl:  rewrite Content/Maps/Mall_Map.umap (80%)
 [2019.08.06-09.56.38:491][711]SourceControl: Commited [Jeremy 09ee280] Added Inventory Event.
+[2019.08.06-09.58.39:043][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-09.58.39:090][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.08.06-09.58.39:307][742]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapB44F5A594483BA9A8A45D9B135DD7274.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-09.58.39:578][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-09.58.39:672][742]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData09A3CBE7433A9EA94C050E975396D030.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-09.58.41:652][918]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository
+[2019.08.06-09.58.44:562][918]LogSlate: Window 'Submit Files' being destroyed
+[2019.08.06-09.58.47:196][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-09.58.47:403][237]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.08.06-09.58.52:579][538]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-09.58.52:631][538]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-09.59.01:977][183]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2019.08.06-09.59.04:716][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-09.59.05:039][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-09.59.05:093][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.08.06-09.59.05:300][511]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapECB1D958469E0DB00B64D7BDD0B36FAF.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-09.59.05:600][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-09.59.05:696][511]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData000014CB42472D66EC4D47880ED25E0F.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-09.59.09:280][899]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2019.08.06-09.59.09:340][904]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cylinder)
+[2019.08.06-09.59.10:671][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-09.59.10:843][ 67]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Checkpoint.Checkpoint
+[2019.08.06-09.59.15:516][394]BlueprintLog: New page: Compile Checkpoint
+[2019.08.06-09.59.15:722][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.06-09.59.16:481][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Checkpoint" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Checkpoint.uasset" SILENT=true
+[2019.08.06-09.59.16:522][418]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Checkpoint7255974C4217E7C92FFBC49A51C56DBE.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Checkpoint.uasset'
+[2019.08.06-10.00.50:516][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Checkpoint" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Checkpoint.uasset" SILENT=true
+[2019.08.06-10.00.50:547][531]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Checkpoint9911D592478B7EFC311204B9EE0E3FCB.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Checkpoint.uasset'
+[2019.08.06-10.00.51:118][569]LogSlate: Window 'Checkpoint' being destroyed
+[2019.08.06-10.00.51:171][569]LogSlate: Window 'Checkpoint' being destroyed
+[2019.08.06-10.00.53:066][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mall)
+[2019.08.06-10.00.53:876][868]LogEditorViewport: Clicking on Actor (LMB): PotandPanContainer_C (PotandPanContainer)
+[2019.08.06-10.01.04:906][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.01.05:081][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Containers/PotandPanContainer.PotandPanContainer
+[2019.08.06-10.01.16:575][ 91]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.01.16:769][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.08.06-10.01.17:505][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.01.17:547][129]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainer91A0ABFE4B7FAFB747EF359CED48B6F2.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.04.43:234][867]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Jeremy B/Downloads/womp-womp.wav)
+[2019.08.06-10.04.45:717][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.04.45:770][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.08.06-10.04.46:015][101]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map2F25D44746B3F9FF2391B8BFA422E403.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.04.46:306][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.04.46:429][101]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData6DD6FFD448467C4DE47E0AB46075445F.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.04.53:960][724]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.04.54:158][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.06-10.04.54:924][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.04.54:962][757]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainer008A8EC3424B6F08C6FEF5BEA37B3D79.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.04.56:622][897]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.04.56:675][897]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.05.01:019][376]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Containers/PotandPanContainer.PotandPanContainer
+[2019.08.06-10.06.01:961][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.06.02:007][893]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainerADD4B6874B73E9E6CA2CC2AD21BAF2DC.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.06.02:566][935]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.06.02:621][935]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.06.19:386][107]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.08.06-10.06.25:546][446]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.06-10.06.25:825][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.08.06-10.06.26:706][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.08.06-10.06.26:812][472]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/FirstPersonCharacter0C3A8720407936C6B7C9C5A0EA0B5586.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.06-10.06.27:217][494]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-10.06.27:269][494]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-10.06.28:312][594]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.06.28:336][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.06.28:336][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.06.28:336][594]PIE: New page: PIE session: Mall_Map (7/08/2019 10:06:28 am)
+[2019.08.06-10.06.28:337][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.06.28:343][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006256s)
+[2019.08.06-10.06.28:343][594]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.06.28:343][594]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.08.06-10.06.28:343][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.006844s)
+[2019.08.06-10.06.28:386][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.08.06-10.06.28:397][594]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.06.28:407][594]LogInit: FAudioDevice initialized.
+[2019.08.06-10.06.28:434][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.06.28:437][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.06.28
+[2019.08.06-10.06.28:437][594]LogWorld: Bringing up level for play took: 0.002418
+[2019.08.06-10.06.28:453][594]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map 0.138
+[2019.08.06-10.06.28:453][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.06.30:783][862]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.06.30:784][862]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave womp-womp...
+[2019.08.06-10.06.30:860][862]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 870912 while cooking SoundWave /Game/Audio/womp-womp.womp-womp.
+[2019.08.06-10.06.38:120][727]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.06.43:224][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.06.43:225][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.06.43:253][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.06.43:254][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.06.43:307][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.06.43:312][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.06-10.06.43:334][333]LogPlayLevel: Display: Destroying online subsystem :Context_230
+[2019.08.06-10.06.48:250][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.06.48:487][927]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.08.06-10.07.53:970][266]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-10.07.54:022][266]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-10.07.55:775][446]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Containers/PotandPanContainer.PotandPanContainer
+[2019.08.06-10.08.42:541][629]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.08.42:739][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.08.06-10.08.44:113][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.08.44:164][746]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainer512819B44DB5F7C87D7330A3DF58E289.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.09.14:618][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.09.53:208][850]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.09.53:392][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.08.06-10.09.54:430][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.09.54:465][942]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainer63F6075D4A08D124ECD640B2EEE5B7A9.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.12.36:810][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.12.39:111][995]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.12.39:171][995]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.12.43:366][477]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Mall)
+[2019.08.06-10.12.43:400][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.12.44:256][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mall)
+[2019.08.06-10.12.46:953][881]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Mall)
+[2019.08.06-10.12.46:971][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.12.48:333][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mall)
+[2019.08.06-10.12.53:119][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.14.16:330][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.14.16:476][201]LogActorFactory: Actor Factory created Cube
+[2019.08.06-10.14.18:361][404]LogActorFactory: Actor Factory created Cube
+[2019.08.06-10.14.24:106][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.06-10.14.24:182][ 58]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.06-10.14.41:085][ 47]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.06-10.14.53:129][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.14.58:118][919]LogMaterial: Display: Missing cached shader map for material CarrotGunMat, compiling. 
+[2019.08.06-10.14.59:103][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mall)
+[2019.08.06-10.14.59:749][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.15.00:007][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.15.00:066][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.15.00:116][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.08.06-10.15.00:364][ 68]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapC5C023D04A61C3E944407EBF5B9D6106.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.15.00:630][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.15.00:794][ 68]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData6A75030245DCA3E989CA36A50C70E632.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.15.01:566][138]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.15.01:589][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.15.01:589][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.15.01:589][138]PIE: New page: PIE session: Mall_Map (7/08/2019 10:15:01 am)
+[2019.08.06-10.15.01:590][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.15.01:596][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006460s)
+[2019.08.06-10.15.01:596][138]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.15.01:597][138]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.08.06-10.15.01:597][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.007126s)
+[2019.08.06-10.15.01:650][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.06-10.15.01:662][138]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.15.01:673][138]LogInit: FAudioDevice initialized.
+[2019.08.06-10.15.01:704][138]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.15.01:707][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.15.01
+[2019.08.06-10.15.01:708][138]LogWorld: Bringing up level for play took: 0.002588
+[2019.08.06-10.15.01:723][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map -0.592
+[2019.08.06-10.15.01:723][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.15.04:045][415]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.15.15:483][782]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.15.18:214][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.15.18:214][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.15.18:248][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.15.18:249][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.15.18:304][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.15.18:309][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.06-10.15.18:331][110]LogPlayLevel: Display: Destroying online subsystem :Context_233
+[2019.08.06-10.15.19:722][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.06-10.15.23:023][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.15.28:257][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mall)
+[2019.08.06-10.15.29:604][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.15.29:698][285]MapCheck: New page: Map Check
+[2019.08.06-10.15.29:709][285]Cmd: MAP REBUILD ALLVISIBLE
+[2019.08.06-10.15.29:709][285]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.08.06-10.15.29:956][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.08.06-10.15.30:008][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:013][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:022][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:026][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:031][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:036][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:040][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:045][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:050][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:054][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:059][285]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.15.30:675][285]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-10.15.30:675][285]TextureStreamingBuild: Display: Compiling optional shaders took 0.674 seconds.
+[2019.08.06-10.15.30:693][285]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2019.08.06-10.15.30:745][285]TextureStreamingBuild: Display: Build Texture Streaming took 0.052 seconds.
+[2019.08.06-10.15.30:791][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.08.06-10.15.30:792][285]LightingResults: New page: Lighting Build - 7/08/2019 10:15:30 am
+[2019.08.06-10.15.30:800][285]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.08.06-10.15.30:804][285]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.08.06-10.15.30:804][285]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.08.06-10.15.30:805][285]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.08.06-10.15.30:805][285]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5104
+[2019.08.06-10.15.35:479][285]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.08.06-10.15.35:479][285]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.08.06-10.15.35:479][285]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.08.06-10.15.35:479][285]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.08.06-10.15.35:479][285]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.08.06-10.15.35:580][285]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.08.06-10.15.35:580][285]MapCheck: New page: Mall_Map - 7/08/2019 10:15:35 am
+[2019.08.06-10.15.35:580][285]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.08.06-10.15.35:581][285]MapCheck: Error: Cube_2 /Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Cube_2 : Invalid DrawScale/DrawScale3D 
+[2019.08.06-10.15.35:581][285]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 0.667ms to complete.
+[2019.08.06-10.15.35:605][285]LogEditorBuildUtils: Build time 0:05
+[2019.08.06-10.15.35:669][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.15.35:902][286]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CarrotGunMat, compiling. 
+[2019.08.06-10.15.35:908][286]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CarrotGunMat, compiling. 
+[2019.08.06-10.15.36:686][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.08.06-10.15.40:855][546]LightingResults: Warning: Mall Object has overlapping UVs.
+[2019.08.06-10.15.40:855][546]LightingResults: Mall Lightmap UV are overlapping by 1.1%. Please adjust content - Enable Error Coloring to visualize.
+[2019.08.06-10.15.43:408][697]Job is a success!
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.043s
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport:      BrickData 1075x5x5 = 0.9Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport:      Bricks at Level
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport:          0: 3.7% covering 100.0% of volume
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport:          1: 9.3% covering 3.9% of volume
+[2019.08.06-10.15.43:576][698]LogVolumetricLightmapImport:          2: 87.0% covering 0.6% of volume
+[2019.08.06-10.15.43:771][698]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.08.06-10.15.43:771][698]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.08.06-10.15.43:771][698]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.08.06-10.15.43:771][698]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.08.06-10.15.43:771][698]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X64)
+[2019.08.06-10.15.43:904][698]Lightmass on DESKTOP-FC7SNQS: 6.48 sec total, 331 ms importing, 70 ms setup, 1.64 sec photons, 4.40 sec processing, 0 ms extra exporting [48/48 mappings]. Threads: 1:05 min total, 34.8 sec processing.
+[2019.08.06-10.15.43:964][698]LogStaticLightingSystem: Mall_Map_BuiltData storing lightmap data for 48 meshes in 3 LightmapResourceClusters (16.0 Meshes per cluster).
+[2019.08.06-10.15.43:970][698]LogMaterial: Warning: Material /Game/Weapons/CarrotGunMat.CarrotGunMat needed to have new flag set bUsedWithStaticLighting !
+[2019.08.06-10.15.43:989][698]LogMaterial: Display: Missing cached shader map for material CarrotGunMat, compiling. 
+[2019.08.06-10.15.44:068][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.06-10.15.44:175][698]LogStaticLightingSystem: Illumination: 13.3 sec (155 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2019.08.06-10.15.44:175][698]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.08.06-10.15.44:175][698]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.08.06-10.15.44:500][698]DumpUnbuiltLightIteractions
+[2019.08.06-10.15.44:500][698]Lights with unbuilt interactions: 0
+[2019.08.06-10.15.44:500][698]
+[2019.08.06-10.15.44:500][698]Primitives with unbuilt interactions: 0
+[2019.08.06-10.15.46:722][699]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.08.06-10.15.46:722][699]MapCheck: New page: Mall_Map - 7/08/2019 10:15:46 am
+[2019.08.06-10.15.46:722][699]MapCheck: Error: Cube_2 /Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Cube_2 : Invalid DrawScale/DrawScale3D 
+[2019.08.06-10.15.46:722][699]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.595ms to complete.
+[2019.08.06-10.15.47:578][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.15.47:671][749]LogSlate: Window 'Message Log' being destroyed
+[2019.08.06-10.15.47:726][749]LogSlate: Window 'Message Log' being destroyed
+[2019.08.06-10.15.49:303][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.06-10.15.51:107][133]Cmd: DELETE
+[2019.08.06-10.15.51:107][133]Cmd: ACTOR DELETE
+[2019.08.06-10.15.51:112][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.06-10.15.51:158][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.08.06-10.15.51:158][133]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.08.06-10.17.12:473][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.17.29:883][718]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/NeededItemUI.NeededItemUI
+[2019.08.06-10.18.10:538][336]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jeremy B/Desktop/Carrot.png)
+[2019.08.06-10.18.10:548][336]LogTexture: Display: Building textures: Carrot (BGRA8, 214X235)
+[2019.08.06-10.19.13:603][511]BlueprintLog: New page: Compile NeededItemUI
+[2019.08.06-10.19.13:804][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.08.06-10.19.14:675][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NeededItemUI" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/UI/NeededItemUI.uasset" SILENT=true
+[2019.08.06-10.19.14:690][552]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/NeededItemUI5950BA354EA4030FD775B8BDEABB8F75.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/UI/NeededItemUI.uasset'
+[2019.08.06-10.19.20:331][ 42]LogSlate: Window 'NeededItemUI' being destroyed
+[2019.08.06-10.19.20:392][ 42]LogSlate: Window 'NeededItemUI' being destroyed
+[2019.08.06-10.19.21:346][145]LogEditorViewport: Clicking on Actor (LMB): PotandPanContainer_C (PotandPanContainer)
+[2019.08.06-10.19.22:265][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.19.22:405][253]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Containers/PotandPanContainer.PotandPanContainer
+[2019.08.06-10.20.01:284][873]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.20.01:483][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.08.06-10.20.02:230][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.20.02:283][904]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainerDE14178745E17D7AD06DFDAE354FA16A.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.23.38:334][158]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.06-10.24.06:895][430]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.24.07:096][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.08.06-10.24.10:716][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.24.10:764][726]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainerE1BE8B8D469EBF0C5122409D719FA0E1.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.24.11:975][818]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.24.12:031][818]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.24.13:527][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.24.13:556][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.24.13:556][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.24.13:557][972]PIE: New page: PIE session: Mall_Map (7/08/2019 10:24:13 am)
+[2019.08.06-10.24.13:557][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.24.13:564][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006792s)
+[2019.08.06-10.24.13:564][972]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.24.13:564][972]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.08.06-10.24.13:564][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.007427s)
+[2019.08.06-10.24.13:609][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.06-10.24.13:621][972]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.24.13:632][972]LogInit: FAudioDevice initialized.
+[2019.08.06-10.24.13:664][972]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.24.13:668][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.24.13
+[2019.08.06-10.24.13:668][972]LogWorld: Bringing up level for play took: 0.003044
+[2019.08.06-10.24.13:684][972]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map -0.632
+[2019.08.06-10.24.13:684][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.24.16:092][255]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.24.21:461][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.24.21:461][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.24.21:492][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.24.21:492][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.24.21:551][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.24.21:556][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.08.06-10.24.21:577][899]LogPlayLevel: Display: Destroying online subsystem :Context_237
+[2019.08.06-10.24.22:551][ 15]LogEditorViewport: Clicking on Actor (LMB): PotandPanContainer_C (PotandPanContainer)
+[2019.08.06-10.24.22:769][ 37]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh1)
+[2019.08.06-10.24.24:453][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.24.24:608][234]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Containers/PotandPanContainer.PotandPanContainer
+[2019.08.06-10.24.43:083][573]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.24.43:294][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.06-10.24.44:129][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.24.44:182][611]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainer5242BD82448FD3140ADDDF9E993BFA0F.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.25.42:146][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.25.55:469][184]BlueprintLog: New page: Compile PotandPanContainer
+[2019.08.06-10.25.55:720][184]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.08.06-10.25.56:547][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Containers/PotandPanContainer" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset" SILENT=true
+[2019.08.06-10.25.56:600][213]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/PotandPanContainer51204E42435827D66F53A684BD0187FE.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Containers/PotandPanContainer.uasset'
+[2019.08.06-10.25.58:411][341]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.25.58:472][341]LogSlate: Window 'PotandPanContainer' being destroyed
+[2019.08.06-10.26.02:315][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mall)
+[2019.08.06-10.26.04:408][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.26.08:585][408]LogActorFactory: Actor Factory created Cube
+[2019.08.06-10.26.08:977][448]LogActorFactory: Actor Factory created Cube
+[2019.08.06-10.26.20:174][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.06-10.26.25:067][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.06-10.26.30:779][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.26.56:389][551]LogAssetEditorManager: Opening Asset editor for Material /Game/UI/CarrotMat.CarrotMat
+[2019.08.06-10.26.56:391][551]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.26.56:666][551]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.26.56:679][551]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.26.56:705][551]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.06-10.26.56:705][551]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-10.26.57:611][590]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.08.06-10.26.57:611][590]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.08.06-10.26.57:611][590]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.08.06-10.26.57:611][590]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.06-10.27.03:732][ 28]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.27.03:742][ 28]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.06-10.27.03:742][ 28]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-10.27.03:742][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.06-10.27.03:775][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.06-10.27.03:928][ 32]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-10.27.04:396][ 56]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.08.06-10.27.04:396][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.08.06-10.27.04:396][ 56]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.08.06-10.27.04:396][ 56]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.06-10.27.07:148][248]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.27.07:161][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.06-10.27.07:176][248]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.06-10.27.07:400][254]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-10.27.07:952][281]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.08.06-10.27.07:952][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.08.06-10.27.07:952][281]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.08.06-10.27.07:952][281]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.06-10.27.07:952][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.08.06-10.27.07:952][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.06-10.27.09:612][402]LogMaterialEditor: Saving and Compiling material CarrotMat
+[2019.08.06-10.27.11:082][402]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.27.11:121][402]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.06-10.27.11:121][402]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-10.27.11:190][402]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.27.11:208][402]LogMaterial: Display: Missing cached shader map for material CarrotMat, compiling. 
+[2019.08.06-10.27.11:276][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.08.06-10.27.11:286][402]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-10.27.11:774][402]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.06-10.27.11:777][402]TextureStreamingBuild: Display: Compiling optional shaders took 0.501 seconds.
+[2019.08.06-10.27.11:820][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.08.06-10.27.14:273][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CarrotMat" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/UI/CarrotMat.uasset" SILENT=true
+[2019.08.06-10.27.14:292][402]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/CarrotMat4879B3604F0364E171C36B8E067FD91A.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/UI/CarrotMat.uasset'
+[2019.08.06-10.27.15:604][473]LogSlate: Window 'CarrotMat' being destroyed
+[2019.08.06-10.27.15:659][473]LogSlate: Window 'CarrotMat' being destroyed
+[2019.08.06-10.27.26:040][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.06-10.28.01:817][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.28.02:194][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.28.02:249][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.08.06-10.28.02:467][645]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map05E7DB874A6CC9C45C41918AA6EA9935.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.28.02:766][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.28.02:903][645]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData0D75B50F491A4D810B98A5B60F86E1B4.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.28.03:487][701]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.28.03:504][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.28.03:504][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.28.03:504][701]PIE: New page: PIE session: Mall_Map (7/08/2019 10:28:03 am)
+[2019.08.06-10.28.03:504][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.28.03:512][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006739s)
+[2019.08.06-10.28.03:512][701]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.28.03:512][701]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2019.08.06-10.28.03:512][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.007375s)
+[2019.08.06-10.28.03:558][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.08.06-10.28.03:569][701]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.28.03:578][701]LogInit: FAudioDevice initialized.
+[2019.08.06-10.28.03:607][701]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.28.03:614][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.28.03
+[2019.08.06-10.28.03:615][701]LogWorld: Bringing up level for play took: 0.007007
+[2019.08.06-10.28.03:634][701]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map -0.681
+[2019.08.06-10.28.03:634][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.28.06:435][ 34]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.28.13:276][845]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.28.17:619][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.28.17:619][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.28.17:648][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.28.17:649][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.28.17:709][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.28.17:714][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.08.06-10.28.17:738][365]LogPlayLevel: Display: Destroying online subsystem :Context_240
+[2019.08.06-10.28.19:047][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.28.19:415][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.28.19:461][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.08.06-10.28.19:668][534]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapAD4A278646F5031D80A7D3B304FB584E.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.28.19:929][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.28.20:043][534]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltDataD1AA52DB4F1EEAA837C20996E21E6BB7.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.28.39:541][ 58]LogEditorViewport: Clicking on Actor (LMB): Carrot1_C (Carrot)
+[2019.08.06-10.28.44:812][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.28.47:176][901]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyCharacter.EnemyCharacter
+[2019.08.06-10.28.59:204][537]LogSlate: Window 'EnemyCharacter' being destroyed
+[2019.08.06-10.28.59:257][537]LogSlate: Window 'EnemyCharacter' being destroyed
+[2019.08.06-10.29.03:614][917]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Inventory_Slot.Inventory_Slot
+[2019.08.06-10.29.17:103][742]LogSlate: Window 'Inventory_Slot' being destroyed
+[2019.08.06-10.29.17:155][742]LogSlate: Window 'Inventory_Slot' being destroyed
+[2019.08.06-10.29.31:246][152]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyCharacter.EnemyCharacter
+[2019.08.06-10.30.16:201][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyCharacter" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Enemies/EnemyCharacter.uasset" SILENT=true
+[2019.08.06-10.30.16:253][392]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/EnemyCharacter63ED98D24ED46F095AC9A5B888A8DE61.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Enemies/EnemyCharacter.uasset'
+[2019.08.06-10.30.23:638][812]LogSlate: Window 'EnemyCharacter' being destroyed
+[2019.08.06-10.30.23:691][812]LogSlate: Window 'EnemyCharacter' being destroyed
+[2019.08.06-10.30.26:290][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyHealth.EnemyHealth
+[2019.08.06-10.30.38:460][851]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.06-10.30.51:831][749]BlueprintLog: New page: Compile EnemyHealth
+[2019.08.06-10.30.52:041][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.06-10.30.53:089][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyHealth" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Enemies/EnemyHealth.uasset" SILENT=true
+[2019.08.06-10.30.53:136][800]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/EnemyHealth8F98126C4A66A478166F6287F9B6FE43.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Enemies/EnemyHealth.uasset'
+[2019.08.06-10.30.55:339][936]LogSlate: Window 'EnemyHealth' being destroyed
+[2019.08.06-10.30.55:392][936]LogSlate: Window 'EnemyHealth' being destroyed
+[2019.08.06-10.31.02:829][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.31.05:857][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.31.09:264][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.31.09:593][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.31.09:651][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.08.06-10.31.09:918][251]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map545360BC47D1523337A12BA0775F0BAA.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.31.10:135][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.31.10:250][251]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData2138D8264B14E663ABA0ACAA7A0DE6B9.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.31.10:784][296]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.31.10:811][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.31.10:811][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.31.10:811][296]PIE: New page: PIE session: Mall_Map (7/08/2019 10:31:10 am)
+[2019.08.06-10.31.10:812][296]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.31.10:819][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007416s)
+[2019.08.06-10.31.10:820][296]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.31.10:820][296]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2019.08.06-10.31.10:820][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.008118s)
+[2019.08.06-10.31.10:869][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.06-10.31.10:881][296]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.31.10:890][296]LogInit: FAudioDevice initialized.
+[2019.08.06-10.31.10:919][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.31.10:922][296]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.31.10
+[2019.08.06-10.31.10:923][296]LogWorld: Bringing up level for play took: 0.003872
+[2019.08.06-10.31.10:940][296]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map 0.625
+[2019.08.06-10.31.10:941][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.31.25:235][991]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.31.32:091][798]LogBlueprintUserMessages: [None] 60
+[2019.08.06-10.31.34:472][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.31.34:472][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.31.34:505][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.31.34:505][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.31.34:555][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.31.34:560][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.06-10.31.34:583][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_246
+[2019.08.06-10.31.41:022][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.32.07:706][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.32.07:788][867]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.32.07:805][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.32.07:805][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.32.07:805][867]PIE: New page: PIE session: Mall_Map (7/08/2019 10:32:07 am)
+[2019.08.06-10.32.07:805][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.32.07:813][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007882s)
+[2019.08.06-10.32.07:813][867]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.32.07:813][867]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2019.08.06-10.32.07:813][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.008485s)
+[2019.08.06-10.32.07:855][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.08.06-10.32.07:866][867]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.32.07:875][867]LogInit: FAudioDevice initialized.
+[2019.08.06-10.32.07:906][867]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.32.07:910][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.32.07
+[2019.08.06-10.32.07:911][867]LogWorld: Bringing up level for play took: 0.004022
+[2019.08.06-10.32.07:926][867]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map -0.39
+[2019.08.06-10.32.07:926][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.32.24:023][776]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.32.25:814][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.32.25:814][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.32.25:848][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.32.25:848][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.32.25:899][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.32.25:904][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.06-10.32.25:927][991]LogPlayLevel: Display: Destroying online subsystem :Context_248
+[2019.08.06-10.32.34:815][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.32.34:972][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.08.06-10.32.36:671][ 53]LogSlate: Window 'Save Content' being destroyed
+[2019.08.06-10.32.37:984][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.32.38:031][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.08.06-10.32.38:269][169]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map5552B3914E614FEF6F7293A8748A333A.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.32.38:544][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.32.38:645][169]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltDataDBB6D4D04B43508B648DC097215658F8.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.36.48:274][250]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Jeremy B/Downloads/Elevator-music.wav)
+[2019.08.06-10.36.50:461][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.36.50:515][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.06-10.36.50:747][430]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map69E58AFC4DD46A88CB0A5BBC5DDC4CD5.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.36.51:017][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.36.51:169][430]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData4F32F97A4E9EA675CCF9A09E4BB7E982.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.37.47:169][917]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Jeremy B/Downloads/Coin-pick-up-sound-effect.wav)
+[2019.08.06-10.37.50:131][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.37.50:183][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.08.06-10.37.50:454][216]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapE7F3A8FA4CB7172AA42821B1D14BA00E.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.37.50:722][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.37.50:851][216]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltDataE7F5249149D5254E2A6165BB948ADDAC.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.37.51:745][297]LogEditorViewport: Clicking on Actor (LMB): Carrot1_C (Carrot)
+[2019.08.06-10.37.51:881][308]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2019.08.06-10.37.53:411][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.37.53:551][494]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Carrot1.Carrot1
+[2019.08.06-10.37.59:315][944]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.37.59:368][944]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.38.07:350][819]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map
+[2019.08.06-10.38.22:284][179]BlueprintLog: New page: Compile Mall_Map
+[2019.08.06-10.38.22:468][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.06-10.38.23:107][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.38.23:156][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.08.06-10.38.23:414][209]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map0E96435D4D546F4B1AACC1AA9477C002.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.38.23:452][209]LogFileHelpers: Saving map 'Mall_Map' took 0.345
+[2019.08.06-10.38.24:647][311]LogSlate: Window 'Mall_Map' being destroyed
+[2019.08.06-10.38.24:701][311]LogSlate: Window 'Mall_Map' being destroyed
+[2019.08.06-10.38.27:717][631]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Carrot1.Carrot1
+[2019.08.06-10.38.30:058][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Item/Carrot1" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Item/Carrot1.uasset" SILENT=true
+[2019.08.06-10.38.30:088][742]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Carrot182A58CB44F3EE940CFDE0FA831CF0532.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Item/Carrot1.uasset'
+[2019.08.06-10.38.32:861][961]BlueprintLog: New page: Compile Carrot1
+[2019.08.06-10.38.33:061][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.06-10.38.33:680][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Item/Carrot1" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Item/Carrot1.uasset" SILENT=true
+[2019.08.06-10.38.33:703][977]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Carrot1D156C67B4916BDC2BEC4E0A2BFD6472F.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Item/Carrot1.uasset'
+[2019.08.06-10.38.35:247][101]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.38.35:299][101]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.38.37:398][314]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Carrot1.Carrot1
+[2019.08.06-10.38.51:904][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.38.54:983][669]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.38.55:044][669]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.39.18:815][263]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyCharacter.EnemyCharacter
+[2019.08.06-10.39.30:632][  4]LogSlate: Window 'EnemyCharacter' being destroyed
+[2019.08.06-10.39.30:685][  4]LogSlate: Window 'EnemyCharacter' being destroyed
+[2019.08.06-10.39.38:092][821]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Item.Item
+[2019.08.06-10.39.48:468][715]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Interact_Interface.Interact_Interface
+[2019.08.06-10.39.50:200][879]LogSlate: Window 'Interact_Interface' being destroyed
+[2019.08.06-10.39.50:252][879]LogSlate: Window 'Interact_Interface' being destroyed
+[2019.08.06-10.39.52:419][ 96]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Item.Item
+[2019.08.06-10.39.55:309][293]LogSlate: Window 'Item' being destroyed
+[2019.08.06-10.39.55:362][293]LogSlate: Window 'Item' being destroyed
+[2019.08.06-10.40.01:656][975]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.08.06-10.40.27:051][517]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-10.40.27:105][517]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.06-10.40.45:339][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Carrot1.Carrot1
+[2019.08.06-10.40.48:876][824]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.40.48:930][824]LogSlate: Window 'Carrot1' being destroyed
+[2019.08.06-10.40.50:098][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Item/Item.Item
+[2019.08.06-10.41.03:284][965]BlueprintLog: New page: Compile Item
+[2019.08.06-10.41.03:501][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.08.06-10.41.04:591][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Item/Item" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Item/Item.uasset" SILENT=true
+[2019.08.06-10.41.04:627][ 30]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Item72F53D1B42066155534BBC8E5E4C1C8A.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Inventory/Item/Item.uasset'
+[2019.08.06-10.41.06:000][145]LogSlate: Window 'Item' being destroyed
+[2019.08.06-10.41.06:057][145]LogSlate: Window 'Item' being destroyed
+[2019.08.06-10.41.07:572][308]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.06-10.41.07:598][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.41.07:599][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.06-10.41.07:599][308]PIE: New page: PIE session: Mall_Map (7/08/2019 10:41:07 am)
+[2019.08.06-10.41.07:599][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mall_Map
+[2019.08.06-10.41.07:607][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008123s)
+[2019.08.06-10.41.07:607][308]LogAIModule: Creating AISystem for world Mall_Map
+[2019.08.06-10.41.07:608][308]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2019.08.06-10.41.07:608][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mall_Map.Mall_Map to /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map (0.008776s)
+[2019.08.06-10.41.07:648][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.08.06-10.41.07:660][308]LogInit: XAudio2 using 'LG HDR WFHD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.06-10.41.07:670][308]LogInit: FAudioDevice initialized.
+[2019.08.06-10.41.07:698][308]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.06-10.41.07:702][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mall_Map.Mall_Map up for play (max tick rate 0) at 2019.08.06-22.41.07
+[2019.08.06-10.41.07:703][308]LogWorld: Bringing up level for play took: 0.004002
+[2019.08.06-10.41.07:718][308]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.41.07:718][308]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.41.07:718][308]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.41.07:720][308]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mall_Map -0.596
+[2019.08.06-10.41.07:720][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.41.07:728][308]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Elevator-music...
+[2019.08.06-10.41.10:015][308]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 33384960 while cooking SoundWave /Game/Audio/Elevator-music.Elevator-music.
+[2019.08.06-10.41.19:734][445]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Coin-pick-up-sound-effect...
+[2019.08.06-10.41.19:745][445]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 138240 while cooking SoundWave /Game/Audio/Coin-pick-up-sound-effect.Coin-pick-up-sound-effect.
+[2019.08.06-10.41.26:959][306]LogBlueprintUserMessages: [PotandPanContainer_5] No
+[2019.08.06-10.41.32:146][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.41.32:146][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.41.32:176][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.06-10.41.32:176][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map' with GeneratedClass '/Game/Maps/Mall_Map.Mall_Map_C' with ClassGeneratedBy '/Game/Maps/Mall_Map.Mall_Map:PersistentLevel.Mall_Map'
+[2019.08.06-10.41.32:230][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-10.41.32:236][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.08.06-10.41.32:258][915]LogPlayLevel: Display: Destroying online subsystem :Context_260
+[2019.08.06-10.41.33:144][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.41.33:506][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.41.33:558][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.08.06-10.41.33:789][ 19]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapE7097A514F8878A60DFCBAAD5F45C505.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.41.34:040][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.41.34:164][ 19]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltDataE67785174C62879FB1CFF69B08A739CA.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.41.47:543][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.41.47:595][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.06-10.41.47:861][303]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_MapEF999B654488664445AC6FAC7174828C.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map.umap'
+[2019.08.06-10.41.48:101][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mall_Map_BuiltData" FILE="C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset" SILENT=true
+[2019.08.06-10.41.48:208][303]LogSavePackage: Moving 'C:/Users/Jeremy B/Documents/Prototype2/Saved/Mall_Map_BuiltData072860F843A2ACF1FE399EBB972CD60B.tmp' to 'C:/Users/Jeremy B/Documents/Prototype2/Content/Maps/Mall_Map_BuiltData.uasset'
+[2019.08.06-10.41.56:393][228]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository
+[2019.08.06-10.42.07:282][228]LogSlate: Window 'Submit Files' being destroyed
+[2019.08.06-10.42.08:817][228]LogSourceControl: commit successful: [Jeremy 466bef0] Added placeholder sounds
+[2019.08.06-10.42.09:178][228]SourceControl: [Jeremy 466bef0] Added placeholder sounds
+[2019.08.06-10.42.09:178][228]SourceControl:  11 files changed, 0 insertions(+), 0 deletions(-)
+[2019.08.06-10.42.09:178][228]SourceControl:  rewrite Content/Enemies/EnemyHealth.uasset (70%)
+[2019.08.06-10.42.09:178][228]SourceControl:  rewrite Content/FirstPersonBP/Checkpoint.uasset (74%)
+[2019.08.06-10.42.09:178][228]SourceControl:  rewrite Content/Maps/Mall_Map.umap (87%)
+[2019.08.06-10.42.09:178][228]SourceControl:  create mode 100644 Content/UI/CarrotMat.uasset
+[2019.08.06-10.42.09:178][228]SourceControl:  create mode 100644 Content/UI/NeededItemUI.uasset
+[2019.08.06-10.42.09:231][228]SourceControl: Commited [Jeremy 466bef0] Added placeholder sounds.
