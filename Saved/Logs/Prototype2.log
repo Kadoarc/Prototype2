@@ -19129,3 +19129,1345 @@ Script call stack:
 [2019.10.09-02.33.18:499][577]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
 [2019.10.09-02.33.18:500][577]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.223
 [2019.10.09-02.33.18:500][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.51:718][719]LogNet: Browse: /Game/Maps/LevelA
+[2019.10.09-02.33.51:718][719]LogLoad: LoadMap: /Game/Maps/LevelA
+[2019.10.09-02.33.51:769][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.09-02.33.51:790][719]LogAIModule: Creating AISystem for world LevelA
+[2019.10.09-02.33.51:790][719]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.33.51:794][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelA.LevelA up for play (max tick rate 0) at 2019.10.09-15.33.51
+[2019.10.09-02.33.51:794][719]LogWorld: Bringing up level for play took: 0.002244
+[2019.10.09-02.33.51:797][719]LogLoad: Took 0.078533 seconds to LoadMap(/Game/Maps/LevelA)
+[2019.10.09-02.33.53:289][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.53:290][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.33.53:317][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.33.53:318][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.53:369][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.33.53:373][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.09-02.33.53:395][888]LogPlayLevel: Display: Destroying online subsystem :Context_250
+[2019.10.09-02.33.53:989][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.33.54:076][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.33.54:120][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.54:120][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-02.33.54:120][963]PIE: New page: PIE session: FoodCourt (10/10/2019 4:33:54 am)
+[2019.10.09-02.33.54:120][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.33.54:123][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003073s)
+[2019.10.09-02.33.54:124][963]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.33.54:124][963]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2019.10.09-02.33.54:124][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003551s)
+[2019.10.09-02.33.54:170][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.09-02.33.54:176][963]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.33.54:184][963]LogInit: FAudioDevice initialized.
+[2019.10.09-02.33.54:211][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.33.54:214][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.33.54
+[2019.10.09-02.33.54:214][963]LogWorld: Bringing up level for play took: 0.002706
+[2019.10.09-02.33.54:229][963]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.33.54:230][963]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.043
+[2019.10.09-02.33.54:230][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.58:048][390]LogNet: Browse: /Game/Maps/LevelA
+[2019.10.09-02.33.58:048][390]LogLoad: LoadMap: /Game/Maps/LevelA
+[2019.10.09-02.33.58:098][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.09-02.33.58:119][390]LogAIModule: Creating AISystem for world LevelA
+[2019.10.09-02.33.58:120][390]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.33.58:123][390]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelA.LevelA up for play (max tick rate 0) at 2019.10.09-15.33.58
+[2019.10.09-02.33.58:123][390]LogWorld: Bringing up level for play took: 0.002344
+[2019.10.09-02.33.58:126][390]LogLoad: Took 0.078107 seconds to LoadMap(/Game/Maps/LevelA)
+[2019.10.09-02.33.58:854][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.58:854][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.33.58:887][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.33.58:887][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.33.58:938][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.33.58:942][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.09-02.33.58:963][471]LogPlayLevel: Display: Destroying online subsystem :Context_251
+[2019.10.09-02.34.01:858][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.34.01:984][810]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.34.02:028][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.34.02:028][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-02.34.02:028][810]PIE: New page: PIE session: FoodCourt (10/10/2019 4:34:02 am)
+[2019.10.09-02.34.02:028][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.34.02:031][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003162s)
+[2019.10.09-02.34.02:031][810]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.34.02:032][810]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2019.10.09-02.34.02:032][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003697s)
+[2019.10.09-02.34.02:079][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.10.09-02.34.02:085][810]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.34.02:093][810]LogInit: FAudioDevice initialized.
+[2019.10.09-02.34.02:132][810]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.34.02:134][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.34.02
+[2019.10.09-02.34.02:135][810]LogWorld: Bringing up level for play took: 0.002701
+[2019.10.09-02.34.02:150][810]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.34.02:151][810]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.122
+[2019.10.09-02.34.02:151][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.34.04:140][ 28]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.34.04:354][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.34.04:569][ 76]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.34.05:801][215]LogNet: Browse: /Game/Maps/LevelA
+[2019.10.09-02.34.05:801][215]LogLoad: LoadMap: /Game/Maps/LevelA
+[2019.10.09-02.34.05:851][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.09-02.34.05:871][215]LogAIModule: Creating AISystem for world LevelA
+[2019.10.09-02.34.05:871][215]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.34.05:874][215]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelA.LevelA up for play (max tick rate 0) at 2019.10.09-15.34.05
+[2019.10.09-02.34.05:874][215]LogWorld: Bringing up level for play took: 0.002179
+[2019.10.09-02.34.05:877][215]LogLoad: Took 0.075565 seconds to LoadMap(/Game/Maps/LevelA)
+[2019.10.09-02.34.14:860][252]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.34.15:092][279]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.34.15:729][352]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.34.15:936][376]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.34.16:169][403]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.34.16:435][434]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.34.16:669][461]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.34.18:985][727]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.34.19:229][755]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.34.19:430][778]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.34.19:772][817]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.34.20:095][854]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.34.31:653][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.34.31:653][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.34.31:687][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.34.31:687][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.34.31:739][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.34.31:743][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.09-02.34.31:765][188]LogPlayLevel: Display: Destroying online subsystem :Context_252
+[2019.10.09-02.34.35:319][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.34.46:123][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls_Floor)
+[2019.10.09-02.34.46:765][866]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.10.09-02.35.03:162][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.35.03:268][499]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.35.03:310][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.35.03:310][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-02.35.03:310][499]PIE: New page: PIE session: FoodCourt (10/10/2019 4:35:03 am)
+[2019.10.09-02.35.03:310][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.35.03:313][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003129s)
+[2019.10.09-02.35.03:314][499]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.35.03:314][499]LogPlayLevel: PIE: World Init took: (0.000399s)
+[2019.10.09-02.35.03:314][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003609s)
+[2019.10.09-02.35.03:363][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.09-02.35.03:370][499]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.35.03:377][499]LogInit: FAudioDevice initialized.
+[2019.10.09-02.35.03:405][499]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.35.03:407][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.35.03
+[2019.10.09-02.35.03:408][499]LogWorld: Bringing up level for play took: 0.002534
+[2019.10.09-02.35.03:423][499]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.35.03:424][499]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.843
+[2019.10.09-02.35.03:424][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.35.10:871][335]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.35.11:430][398]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.35.12:321][499]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.35.12:763][549]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.35.14:769][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.35.14:769][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.35.14:802][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.35.14:802][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.35.14:853][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.35.14:857][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.09-02.35.14:879][776]LogPlayLevel: Display: Destroying online subsystem :Context_253
+[2019.10.09-02.35.19:990][349]LogEditorViewport: Clicking on Actor (LMB): MeleeEnemy_C (MeleeEnemy2)
+[2019.10.09-02.36.54:465][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.39.23:609][323]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.39.23:654][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.39.23:654][323]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.39.23:664][323]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.39.23:938][323]LogPlayLevel: [PlayLevel] Compiling Player_UI before play...
+[2019.10.09-02.39.24:171][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.09-02.39.24:171][323]LogPlayLevel: PlayLevel: Blueprint regeneration took 518 ms (2 blueprints)
+[2019.10.09-02.39.24:171][323]PIE: New page: PIE session: FoodCourt (10/10/2019 4:39:24 am)
+[2019.10.09-02.39.24:172][323]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.39.24:175][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003284s)
+[2019.10.09-02.39.24:175][323]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.39.24:175][323]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.10.09-02.39.24:175][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003875s)
+[2019.10.09-02.39.24:221][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.09-02.39.24:228][323]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.39.24:235][323]LogInit: FAudioDevice initialized.
+[2019.10.09-02.39.24:272][323]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.39.24:275][323]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.39.24
+[2019.10.09-02.39.24:276][323]LogWorld: Bringing up level for play took: 0.003256
+[2019.10.09-02.39.24:290][323]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.39.24:292][323]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.044
+[2019.10.09-02.39.24:292][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.39.24:292][323]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:292][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:419][324]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:419][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:444][325]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:444][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:534][326]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:534][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:548][327]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:548][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:562][328]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:562][328]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:575][329]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:575][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:589][330]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:589][330]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:602][331]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:602][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:616][332]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:616][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:629][333]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:631][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:645][334]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:645][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:660][335]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:660][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:676][336]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:677][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:691][337]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:692][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:706][338]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:706][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:720][339]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:002E
+[2019.10.09-02.39.24:720][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:734][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:747][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:762][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:776][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:790][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:804][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:820][346]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:835][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:850][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:864][349]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:878][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:892][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:905][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:918][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:932][354]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:945][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:958][356]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:971][357]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:985][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.24:998][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:011][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:025][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:038][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:052][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:065][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:078][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:092][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:105][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:118][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:132][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:145][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:159][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:172][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:185][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:199][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:211][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:224][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:238][377]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:252][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:265][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:278][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:291][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:305][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:318][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:331][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:344][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:357][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:370][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:383][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:396][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:408][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:422][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:435][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:448][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:461][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:476][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:489][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:502][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:515][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:528][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:541][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:555][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:568][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:581][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:595][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:608][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:621][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:634][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:647][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:661][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:674][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:687][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:701][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:714][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:727][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:740][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:753][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:766][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:779][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:791][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:805][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:819][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:832][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:845][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:858][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:871][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:884][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.39.25:899][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.39.26:417][468]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.39.28:115][603]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.39.28:827][660]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.39.30:791][817]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.39.31:565][878]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.39.31:816][898]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.39.31:996][912]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.39.32:201][928]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.39.32:501][952]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.39.33:327][ 18]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.39.33:906][ 64]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.39.34:359][100]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.39.34:673][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.39.34:874][141]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.39.35:075][157]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.39.35:253][171]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.39.35:430][185]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.39.36:618][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.39.36:618][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.39.36:646][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.39.36:646][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.39.36:699][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.39.36:705][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.09-02.39.36:713][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.09-02.39.36:738][280]LogPlayLevel: Display: Destroying online subsystem :Context_254
+[2019.10.09-02.39.47:656][140]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-02.39.47:662][140]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-02.40.31:063][463]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.40.31:110][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.40.31:110][463]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.40.31:117][463]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.40.31:440][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.10.09-02.40.31:440][463]LogPlayLevel: PlayLevel: Blueprint regeneration took 330 ms (1 blueprints)
+[2019.10.09-02.40.31:440][463]PIE: New page: PIE session: FoodCourt (10/10/2019 4:40:31 am)
+[2019.10.09-02.40.31:440][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.40.31:443][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003231s)
+[2019.10.09-02.40.31:444][463]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.40.31:444][463]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.10.09-02.40.31:444][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003825s)
+[2019.10.09-02.40.31:494][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.10.09-02.40.31:500][463]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.40.31:507][463]LogInit: FAudioDevice initialized.
+[2019.10.09-02.40.31:541][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.40.31:544][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.40.31
+[2019.10.09-02.40.31:545][463]LogWorld: Bringing up level for play took: 0.003035
+[2019.10.09-02.40.31:560][463]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.40.31:562][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.40.31:562][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 1.319
+[2019.10.09-02.40.31:562][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.40.33:126][590]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.40.33:633][641]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.40.33:921][670]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.40.34:092][687]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.40.34:273][705]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.40.34:454][723]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.40.34:606][738]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.40.34:756][753]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.40.35:017][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.40.35:017][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.40.35:048][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.40.35:048][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.40.35:098][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.40.35:103][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.09-02.40.35:113][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.09-02.40.35:142][780]LogPlayLevel: Display: Destroying online subsystem :Context_255
+[2019.10.09-02.40.41:277][352]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-02.40.41:284][352]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-02.41.14:348][678]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.41.14:393][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.14:393][678]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.41.14:400][678]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.41.14:724][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.10.09-02.41.14:724][678]LogPlayLevel: PlayLevel: Blueprint regeneration took 330 ms (1 blueprints)
+[2019.10.09-02.41.14:724][678]PIE: New page: PIE session: FoodCourt (10/10/2019 4:41:14 am)
+[2019.10.09-02.41.14:724][678]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.41.14:727][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2019.10.09-02.41.14:727][678]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.41.14:728][678]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2019.10.09-02.41.14:728][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003616s)
+[2019.10.09-02.41.14:773][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.10.09-02.41.14:779][678]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.41.14:786][678]LogInit: FAudioDevice initialized.
+[2019.10.09-02.41.14:818][678]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.41.14:820][678]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.41.14
+[2019.10.09-02.41.14:821][678]LogWorld: Bringing up level for play took: 0.002801
+[2019.10.09-02.41.14:836][678]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.41.14:837][678]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.597
+[2019.10.09-02.41.14:837][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.15:514][727]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.41.16:097][790]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.41.16:458][829]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.41.16:746][860]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.41.17:010][888]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.41.17:260][915]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.41.17:557][947]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.41.17:791][972]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.41.18:065][  1]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.41.18:314][ 28]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.41.18:586][ 57]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.41.18:847][ 85]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.41.19:122][114]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.41.19:421][146]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.41.19:711][177]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.41.20:205][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.20:205][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.41.20:233][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.41.20:233][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.20:284][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.41.20:290][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.09-02.41.20:313][231]LogPlayLevel: Display: Destroying online subsystem :Context_256
+[2019.10.09-02.41.21:181][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.41.49:878][397]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.41.49:925][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.49:925][397]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.41.49:933][397]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.41.50:253][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.10.09-02.41.50:253][397]LogPlayLevel: PlayLevel: Blueprint regeneration took 327 ms (1 blueprints)
+[2019.10.09-02.41.50:253][397]PIE: New page: PIE session: FoodCourt (10/10/2019 4:41:50 am)
+[2019.10.09-02.41.50:253][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.41.50:256][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003225s)
+[2019.10.09-02.41.50:257][397]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.41.50:257][397]LogPlayLevel: PIE: World Init took: (0.000409s)
+[2019.10.09-02.41.50:257][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003726s)
+[2019.10.09-02.41.50:301][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.09-02.41.50:307][397]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.41.50:315][397]LogInit: FAudioDevice initialized.
+[2019.10.09-02.41.50:345][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.41.50:348][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.41.50
+[2019.10.09-02.41.50:349][397]LogWorld: Bringing up level for play took: 0.002890
+[2019.10.09-02.41.50:364][397]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.41.50:365][397]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.128
+[2019.10.09-02.41.50:365][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.50:955][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.41.53:044][670]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.41.53:399][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.53:400][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.41.53:433][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.41.53:433][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.41.53:481][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.41.53:487][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.09-02.41.53:508][710]LogPlayLevel: Display: Destroying online subsystem :Context_257
+[2019.10.09-02.41.57:610][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.42.13:906][435]LogEditorTransaction: Undo Edit Current Ammo Count
+[2019.10.09-02.42.13:910][435]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_55:PersistentLevel.FirstPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.10.09-02.42.14:365][458]LogEditorTransaction: Undo Delete current selection
+[2019.10.09-02.42.17:677][741]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.42.17:723][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.42.17:723][741]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.42.17:729][741]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.42.18:052][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.10.09-02.42.18:052][741]LogPlayLevel: PlayLevel: Blueprint regeneration took 329 ms (1 blueprints)
+[2019.10.09-02.42.18:052][741]PIE: New page: PIE session: FoodCourt (10/10/2019 4:42:18 am)
+[2019.10.09-02.42.18:052][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.42.18:055][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003145s)
+[2019.10.09-02.42.18:055][741]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.42.18:056][741]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2019.10.09-02.42.18:056][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003684s)
+[2019.10.09-02.42.18:100][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.09-02.42.18:107][741]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.42.18:114][741]LogInit: FAudioDevice initialized.
+[2019.10.09-02.42.18:147][741]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.42.18:149][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.42.18
+[2019.10.09-02.42.18:150][741]LogWorld: Bringing up level for play took: 0.003061
+[2019.10.09-02.42.18:165][741]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.42.18:166][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.07
+[2019.10.09-02.42.18:166][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.42.18:589][761]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.42.19:641][859]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.42.19:869][880]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.42.20:037][895]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.42.20:179][908]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.42.20:395][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.42.20:395][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.42.20:425][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.42.20:426][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.42.20:475][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.42.20:480][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.09-02.42.20:504][929]LogPlayLevel: Display: Destroying online subsystem :Context_258
+[2019.10.09-02.42.21:473][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.43.02:187][660]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.43.02:234][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.43.02:234][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.43.02:242][660]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.43.02:562][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.10.09-02.43.02:562][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 328 ms (1 blueprints)
+[2019.10.09-02.43.02:562][660]PIE: New page: PIE session: FoodCourt (10/10/2019 4:43:02 am)
+[2019.10.09-02.43.02:562][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.43.02:566][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003163s)
+[2019.10.09-02.43.02:566][660]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.43.02:566][660]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2019.10.09-02.43.02:566][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003689s)
+[2019.10.09-02.43.02:612][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.09-02.43.02:618][660]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.43.02:626][660]LogInit: FAudioDevice initialized.
+[2019.10.09-02.43.02:661][660]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.43.02:664][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.43.02
+[2019.10.09-02.43.02:666][660]LogWorld: Bringing up level for play took: 0.003374
+[2019.10.09-02.43.02:680][660]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.43.02:681][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.448
+[2019.10.09-02.43.02:682][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.43.03:902][749]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.04:339][790]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.05:003][852]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.05:499][898]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.05:772][923]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.05:979][942]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.06:197][962]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.06:765][ 15]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.07:350][ 69]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.07:673][ 99]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.07:921][122]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.08:518][177]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.08:998][222]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.09:344][254]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.09:664][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.09:888][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.10:051][320]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.10:225][336]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.10:378][350]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.10:541][365]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.10:683][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.10:866][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.11:020][409]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.11:183][424]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.11:645][467]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.11:827][484]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.12:174][516]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.12:316][529]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.12:492][545]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.12:656][560]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.12:810][574]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.12:963][588]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.13:124][602]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.43.13:371][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.43.13:371][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.43.13:401][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.43.13:402][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.43.13:453][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.43.13:458][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.09-02.43.13:483][626]LogPlayLevel: Display: Destroying online subsystem :Context_259
+[2019.10.09-02.43.14:856][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.44.05:341][442]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.44.05:386][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.44.05:386][442]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.44.05:394][442]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.44.05:407][442]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a MyPlayerState_C, therefore ' Target ' must have a connection.
+[2019.10.09-02.44.05:409][442]LogBlueprint: Error: [Compiler FirstPersonCharacter] Variable node  Set CarrotAmmo  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.10.09-02.44.05:415][442]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [6429.55] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 28 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.10.09-02.44.05:712][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.10.09-02.44.05:712][442]LogPlayLevel: PlayLevel: Blueprint regeneration took 325 ms (1 blueprints)
+[2019.10.09-02.44.05:712][442]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2019.10.09-02.44.06:931][442]LogSlate: Window 'Message' being destroyed
+[2019.10.09-02.44.22:477][820]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.44.22:522][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.44.22:522][820]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.44.22:530][820]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.44.22:855][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.10.09-02.44.22:855][820]LogPlayLevel: PlayLevel: Blueprint regeneration took 332 ms (1 blueprints)
+[2019.10.09-02.44.22:855][820]PIE: New page: PIE session: FoodCourt (10/10/2019 4:44:22 am)
+[2019.10.09-02.44.22:855][820]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.44.22:858][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003218s)
+[2019.10.09-02.44.22:858][820]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.44.22:859][820]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2019.10.09-02.44.22:859][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003753s)
+[2019.10.09-02.44.22:909][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.09-02.44.22:915][820]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.44.22:922][820]LogInit: FAudioDevice initialized.
+[2019.10.09-02.44.22:949][820]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.44.22:952][820]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.44.22
+[2019.10.09-02.44.22:953][820]LogWorld: Bringing up level for play took: 0.003321
+[2019.10.09-02.44.22:968][820]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.44.22:969][820]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.74
+[2019.10.09-02.44.22:970][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.44.23:503][850]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.44.24:024][902]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.44.24:287][928]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.44.24:575][957]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.44.24:893][985]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.44.25:151][ 11]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.44.25:338][ 30]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.44.25:498][ 46]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.44.25:666][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.44.25:967][ 93]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.44.26:156][112]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.44.26:320][128]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.44.26:492][145]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.26:649][161]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.26:807][177]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.26:967][193]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.27:137][210]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.33:566][866]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.44.34:006][910]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.44.34:146][924]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.44.34:295][939]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.44.35:096][ 20]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.44.35:676][ 79]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.44.35:816][ 93]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.44.35:966][108]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.44.36:126][124]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.44.36:265][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.44.36:424][154]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.44.36:564][168]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.44.36:693][181]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.45:026][ 29]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.44.45:444][ 71]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.44.45:805][107]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.44.46:070][134]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.44.46:239][151]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.44.46:398][167]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.44.46:547][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.44.46:702][198]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.44.46:862][214]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.44.47:462][275]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.44.47:610][290]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.44.47:756][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.44.54:893][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.44.55:272][ 76]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.44.55:567][106]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.44.55:754][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.44.55:989][149]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.44.56:185][169]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.44.56:479][199]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.44.56:635][215]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.44.57:142][266]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.44.57:311][283]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.44.57:516][304]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.44.57:675][320]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.44.57:854][338]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.58:013][354]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.44.58:181][371]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.45.06:725][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.45.06:725][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.45.06:754][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.45.06:755][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.45.06:806][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.45.06:811][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.09-02.45.06:836][265]LogPlayLevel: Display: Destroying online subsystem :Context_260
+[2019.10.09-02.45.10:920][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.45.51:807][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.10.09-02.45.51:807][546]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FoodCourt' took 0.049
+[2019.10.09-02.45.51:809][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.09-02.45.51:818][546]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.09-02.45.51:818][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.09-02.45.51:931][546]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/FirstPersonCharacter_Auto2CD6FB36E4465301356F34F9CAE0CA2DF.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.10.09-02.45.51:932][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Player_UI] ([1] browsable assets)...
+[2019.10.09-02.45.51:932][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Player_UI]
+[2019.10.09-02.45.51:932][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_UI" FILE="../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/UI/Player_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.10.09-02.45.51:957][546]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Player_UI_Auto2D4F77C8541A60ECDF8D1C29FD70AB6A3.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/UI/Player_UI_Auto2.uasset'
+[2019.10.09-02.45.51:958][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/MyPlayerState] ([1] browsable assets)...
+[2019.10.09-02.45.51:958][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/MyPlayerState]
+[2019.10.09-02.45.51:970][546]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/MyPlayerState_Auto2ABABF1E0477F2EBF14AA7884F06FC9F0.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/MyPlayerState_Auto2.uasset'
+[2019.10.09-02.45.51:971][546]LogFileHelpers: Auto-saving content packages took 0.162
+[2019.10.09-02.45.55:389][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.45.55:434][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.45.55:435][945]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.45.55:483][945]LogPlayLevel: [PlayLevel] Compiling MyPlayerState before play...
+[2019.10.09-02.45.55:718][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.10.09-02.45.55:718][945]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2019.10.09-02.45.55:718][945]PIE: New page: PIE session: FoodCourt (10/10/2019 4:45:55 am)
+[2019.10.09-02.45.55:718][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.45.55:721][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003216s)
+[2019.10.09-02.45.55:722][945]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.45.55:722][945]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.10.09-02.45.55:722][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003779s)
+[2019.10.09-02.45.55:771][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.09-02.45.55:777][945]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.45.55:785][945]LogInit: FAudioDevice initialized.
+[2019.10.09-02.45.55:812][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.45.55:814][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.45.55
+[2019.10.09-02.45.55:815][945]LogWorld: Bringing up level for play took: 0.002449
+[2019.10.09-02.45.55:830][945]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.45.55:836][945]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1CAE
+[2019.10.09-02.45.55:836][945]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set CurrentAmmoCount
+[2019.10.09-02.45.55:836][945]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.388
+[2019.10.09-02.45.55:836][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.45.56:509][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.45.56:980][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.45.58:092][208]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.45.58:337][237]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.45.58:498][256]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.45.58:794][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.45.58:956][310]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.45.59:107][328]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.45.59:259][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.01:433][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.46.01:434][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.46.01:467][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.46.01:467][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.46.01:518][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.46.01:523][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.09-02.46.01:534][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.09-02.46.01:561][605]LogPlayLevel: Display: Destroying online subsystem :Context_261
+[2019.10.09-02.46.13:817][826]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.46.13:861][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.46.13:862][826]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.46.13:869][826]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.46.14:188][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.10.09-02.46.14:188][826]LogPlayLevel: PlayLevel: Blueprint regeneration took 326 ms (1 blueprints)
+[2019.10.09-02.46.14:188][826]PIE: New page: PIE session: FoodCourt (10/10/2019 4:46:14 am)
+[2019.10.09-02.46.14:188][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.46.14:191][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2019.10.09-02.46.14:192][826]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.46.14:192][826]LogPlayLevel: PIE: World Init took: (0.000412s)
+[2019.10.09-02.46.14:192][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003579s)
+[2019.10.09-02.46.14:238][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.09-02.46.14:244][826]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.46.14:251][826]LogInit: FAudioDevice initialized.
+[2019.10.09-02.46.14:283][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.46.14:286][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.46.14
+[2019.10.09-02.46.14:287][826]LogWorld: Bringing up level for play took: 0.003463
+[2019.10.09-02.46.14:302][826]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.46.14:303][826]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.08
+[2019.10.09-02.46.14:303][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.46.15:133][889]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.46.15:538][928]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.46.15:984][972]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.46.16:130][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.46.16:305][  3]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.46.16:924][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.46.17:068][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.46.23:815][741]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.46.25:419][898]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.46.26:352][989]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.46.27:046][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.46.27:191][ 66]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.46.27:482][ 94]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.46.27:646][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.46.27:800][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.46.27:934][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.46.28:092][153]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.46.28:266][170]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-02.46.28:410][184]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-02.46.28:636][206]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.28:831][225]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.29:017][243]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.29:175][258]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.29:478][287]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.30:020][339]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-02.46.36:671][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.46.36:857][  4]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.46.37:005][ 18]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.46.37:152][ 32]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.46.37:318][ 48]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.46.37:463][ 62]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.46.37:609][ 76]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.46.37:753][ 90]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.46.37:905][105]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-02.46.38:019][116]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-02.46.38:323][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.46.38:324][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.46.38:359][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.46.38:359][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.46.38:411][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.46.38:416][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.09-02.46.38:440][147]LogPlayLevel: Display: Destroying online subsystem :Context_262
+[2019.10.09-02.46.39:356][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.56.22:371][246]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-02.56.22:418][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.56.22:418][246]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-02.56.22:428][246]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-02.56.22:712][246]LogPlayLevel: [PlayLevel] Compiling MyPlayerState before play...
+[2019.10.09-02.56.22:954][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.10.09-02.56.22:954][246]LogPlayLevel: PlayLevel: Blueprint regeneration took 535 ms (2 blueprints)
+[2019.10.09-02.56.22:954][246]PIE: New page: PIE session: FoodCourt (10/10/2019 4:56:22 am)
+[2019.10.09-02.56.22:954][246]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-02.56.22:957][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003148s)
+[2019.10.09-02.56.22:957][246]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-02.56.22:958][246]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2019.10.09-02.56.22:958][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003734s)
+[2019.10.09-02.56.23:004][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.09-02.56.23:010][246]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-02.56.23:019][246]LogInit: FAudioDevice initialized.
+[2019.10.09-02.56.23:046][246]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-02.56.23:048][246]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-15.56.23
+[2019.10.09-02.56.23:049][246]LogWorld: Bringing up level for play took: 0.002715
+[2019.10.09-02.56.23:064][246]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-02.56.23:065][246]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.865
+[2019.10.09-02.56.23:065][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.56.23:528][268]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-02.56.30:815][998]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-02.56.31:258][ 43]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-02.56.31:724][ 90]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-02.56.32:108][128]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-02.56.32:610][178]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-02.56.33:059][223]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-02.56.33:456][263]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-02.56.33:733][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.56.33:734][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.56.33:766][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-02.56.33:766][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-02.56.33:817][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-02.56.33:822][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.09-02.56.33:846][292]LogPlayLevel: Display: Destroying online subsystem :Context_263
+[2019.10.09-02.56.34:823][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or CanvasPanel /Game/UI/Player_UI.Player_UI:WidgetTree.UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or ObjectProperty /Game/UI/Player_UI.SKEL_Player_UI_C:UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or CanvasPanel /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or CanvasPanel /Game/UI/Player_UI.Player_UI_C:WidgetTree.UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or ObjectProperty /Engine/Transient.REINST_Player_UI_C_184:UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or CanvasPanel /Engine/Transient.World_54:Player_UI_C_298.WidgetTree_0.UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or CanvasPanel /Engine/Transient.World_54:Player_UI_C_344.WidgetTree_0.UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/UI/Player_UI.Player_UI_C:UICanvas or CanvasPanel /Engine/Transient.World_54:Player_UI_C_345.WidgetTree_0.UICanvas
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UI/Player_UI.Player_UI:WidgetTree.UICanvas.CanvasPanelSlot_3
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UI/Player_UI.Player_UI_C:WidgetTree.UICanvas.CanvasPanelSlot_3
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_54:Player_UI_C_298.WidgetTree_0.UICanvas.CanvasPanelSlot_3
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_54:Player_UI_C_344.WidgetTree_0.UICanvas.CanvasPanelSlot_3
+[2019.10.09-02.57.53:693][775]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_54:Player_UI_C_345.WidgetTree_0.UICanvas.CanvasPanelSlot_3
+[2019.10.09-02.57.53:693][775]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.REINST_Player_UI_C_184:WidgetTree.UICanvas.CanvasPanelSlot_3) from referencer (TextBlock /Engine/UMG/Editor/Transient.Ammo).  Import failed...
+[2019.10.09-02.57.53:693][775]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"UICanvas.CanvasPanelSlot_3"''
+[2019.10.09-02.59.51:042][277]LogEditorTransaction: Undo Move Node
+[2019.10.09-03.00.04:152][748]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.00.04:201][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.04:201][748]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.00.04:208][748]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-03.00.04:498][748]LogPlayLevel: [PlayLevel] Compiling InventoryComponent before play...
+[2019.10.09-03.00.04:499][748]LogPlayLevel: [PlayLevel]   Compiling MyPlayerController as a dependent...
+[2019.10.09-03.00.04:500][748]LogPlayLevel: [PlayLevel]   Compiling Player_UI as a dependent...
+[2019.10.09-03.00.04:756][748]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.10.09-03.00.04:756][748]LogPlayLevel: PlayLevel: Blueprint regeneration took 555 ms (4 blueprints)
+[2019.10.09-03.00.04:756][748]PIE: New page: PIE session: FoodCourt (10/10/2019 5:00:04 am)
+[2019.10.09-03.00.04:756][748]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.00.04:760][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003326s)
+[2019.10.09-03.00.04:760][748]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.00.04:760][748]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2019.10.09-03.00.04:760][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003880s)
+[2019.10.09-03.00.04:804][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.09-03.00.04:810][748]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.00.04:818][748]LogInit: FAudioDevice initialized.
+[2019.10.09-03.00.04:851][748]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.00.04:854][748]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.00.04
+[2019.10.09-03.00.04:855][748]LogWorld: Bringing up level for play took: 0.003192
+[2019.10.09-03.00.04:870][748]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.00.04:871][748]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.676
+[2019.10.09-03.00.04:871][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.06:362][914]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.00.06:585][940]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.00.06:724][956]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.00.06:868][972]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.00.06:989][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.00.07:118][  1]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.00.07:257][ 17]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.00.15:863][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.15:863][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.00.15:896][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.00.15:896][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.15:946][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.00.15:952][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.09-03.00.15:974][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_264
+[2019.10.09-03.00.17:796][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-03.00.34:010][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.00.34:060][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.34:060][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.09-03.00.34:060][972]PIE: New page: PIE session: FoodCourt (10/10/2019 5:00:34 am)
+[2019.10.09-03.00.34:060][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.00.34:064][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2019.10.09-03.00.34:064][972]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.00.34:064][972]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2019.10.09-03.00.34:064][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003882s)
+[2019.10.09-03.00.34:110][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.09-03.00.34:116][972]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.00.34:124][972]LogInit: FAudioDevice initialized.
+[2019.10.09-03.00.34:159][972]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.00.34:162][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.00.34
+[2019.10.09-03.00.34:163][972]LogWorld: Bringing up level for play took: 0.003500
+[2019.10.09-03.00.34:177][972]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.00.34:179][972]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.016
+[2019.10.09-03.00.34:179][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.37:662][276]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.10.09-03.00.37:668][276]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.10.09-03.00.53:676][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.53:676][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.00.53:709][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.00.53:709][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.53:761][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.00.53:767][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.09-03.00.53:788][605]LogPlayLevel: Display: Destroying online subsystem :Context_265
+[2019.10.09-03.00.54:270][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.00.54:316][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.54:317][650]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.00.54:319][650]LogPlayLevel: [PlayLevel] Compiling Player_UI before play...
+[2019.10.09-03.00.54:608][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.09-03.00.54:608][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 291 ms (1 blueprints)
+[2019.10.09-03.00.54:608][650]PIE: New page: PIE session: FoodCourt (10/10/2019 5:00:54 am)
+[2019.10.09-03.00.54:608][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.00.54:611][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003072s)
+[2019.10.09-03.00.54:611][650]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.00.54:611][650]LogPlayLevel: PIE: World Init took: (0.000394s)
+[2019.10.09-03.00.54:611][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003556s)
+[2019.10.09-03.00.54:660][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.09-03.00.54:666][650]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.00.54:673][650]LogInit: FAudioDevice initialized.
+[2019.10.09-03.00.54:708][650]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.00.54:711][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.00.54
+[2019.10.09-03.00.54:712][650]LogWorld: Bringing up level for play took: 0.003143
+[2019.10.09-03.00.54:726][650]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.00.54:727][650]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.534
+[2019.10.09-03.00.54:728][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.59:351][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.59:352][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.00.59:384][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.00.59:384][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.00.59:439][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.00.59:445][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.09-03.00.59:467][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_266
+[2019.10.09-03.01.05:136][592]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.01.05:181][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.05:181][592]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.01.05:183][592]LogPlayLevel: [PlayLevel] Compiling Player_UI before play...
+[2019.10.09-03.01.05:461][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.10.09-03.01.05:461][592]LogPlayLevel: PlayLevel: Blueprint regeneration took 280 ms (1 blueprints)
+[2019.10.09-03.01.05:461][592]PIE: New page: PIE session: FoodCourt (10/10/2019 5:01:05 am)
+[2019.10.09-03.01.05:461][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.01.05:465][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2019.10.09-03.01.05:465][592]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.01.05:465][592]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2019.10.09-03.01.05:466][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.004151s)
+[2019.10.09-03.01.05:509][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.09-03.01.05:515][592]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.01.05:523][592]LogInit: FAudioDevice initialized.
+[2019.10.09-03.01.05:556][592]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.01.05:559][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.01.05
+[2019.10.09-03.01.05:560][592]LogWorld: Bringing up level for play took: 0.003114
+[2019.10.09-03.01.05:575][592]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.01.05:577][592]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 1.383
+[2019.10.09-03.01.05:577][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.09:021][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.09:021][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.01.09:049][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.01.09:049][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.09:103][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.01.09:108][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.09-03.01.09:128][887]LogPlayLevel: Display: Destroying online subsystem :Context_267
+[2019.10.09-03.01.13:932][205]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.01.13:976][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.13:976][205]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.01.13:979][205]LogPlayLevel: [PlayLevel] Compiling Player_UI before play...
+[2019.10.09-03.01.14:261][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.10.09-03.01.14:261][205]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2019.10.09-03.01.14:261][205]PIE: New page: PIE session: FoodCourt (10/10/2019 5:01:14 am)
+[2019.10.09-03.01.14:261][205]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.01.14:264][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003229s)
+[2019.10.09-03.01.14:265][205]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.01.14:265][205]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2019.10.09-03.01.14:265][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003780s)
+[2019.10.09-03.01.14:311][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.09-03.01.14:317][205]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.01.14:324][205]LogInit: FAudioDevice initialized.
+[2019.10.09-03.01.14:361][205]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.01.14:364][205]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.01.14
+[2019.10.09-03.01.14:365][205]LogWorld: Bringing up level for play took: 0.003094
+[2019.10.09-03.01.14:380][205]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.01.14:381][205]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.188
+[2019.10.09-03.01.14:382][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.15:419][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.15:420][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.01.15:450][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.01.15:451][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.15:501][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.01.15:507][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.09-03.01.15:525][292]LogPlayLevel: Display: Destroying online subsystem :Context_268
+[2019.10.09-03.01.19:366][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.01.19:410][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.19:410][653]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.01.19:413][653]LogPlayLevel: [PlayLevel] Compiling Player_UI before play...
+[2019.10.09-03.01.19:693][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.09-03.01.19:693][653]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2019.10.09-03.01.19:693][653]PIE: New page: PIE session: FoodCourt (10/10/2019 5:01:19 am)
+[2019.10.09-03.01.19:693][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.01.19:697][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003339s)
+[2019.10.09-03.01.19:697][653]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.01.19:697][653]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.10.09-03.01.19:698][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.004168s)
+[2019.10.09-03.01.19:745][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.09-03.01.19:751][653]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.01.19:759][653]LogInit: FAudioDevice initialized.
+[2019.10.09-03.01.19:794][653]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.01.19:797][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.01.19
+[2019.10.09-03.01.19:798][653]LogWorld: Bringing up level for play took: 0.003332
+[2019.10.09-03.01.19:813][653]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.01.19:815][653]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.379
+[2019.10.09-03.01.19:815][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.21:663][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.21:664][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.01.21:696][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.01.21:696][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.21:748][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.01.21:753][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.09-03.01.21:772][812]LogPlayLevel: Display: Destroying online subsystem :Context_269
+[2019.10.09-03.01.26:730][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.01.26:774][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.26:774][227]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.01.26:777][227]LogPlayLevel: [PlayLevel] Compiling Player_UI before play...
+[2019.10.09-03.01.27:056][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.10.09-03.01.27:056][227]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (1 blueprints)
+[2019.10.09-03.01.27:056][227]PIE: New page: PIE session: FoodCourt (10/10/2019 5:01:27 am)
+[2019.10.09-03.01.27:056][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.01.27:059][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003049s)
+[2019.10.09-03.01.27:060][227]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.01.27:060][227]LogPlayLevel: PIE: World Init took: (0.000404s)
+[2019.10.09-03.01.27:060][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003546s)
+[2019.10.09-03.01.27:107][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.09-03.01.27:113][227]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.01.27:120][227]LogInit: FAudioDevice initialized.
+[2019.10.09-03.01.27:153][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.01.27:156][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.01.27
+[2019.10.09-03.01.27:157][227]LogWorld: Bringing up level for play took: 0.003325
+[2019.10.09-03.01.27:173][227]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.01.27:175][227]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.981
+[2019.10.09-03.01.27:175][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.01.30:924][565]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.01.31:117][583]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.01.31:277][598]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.01.31:448][614]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.01.31:610][629]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.01.31:782][645]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.01.31:943][660]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.01.32:108][675]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.01.32:262][689]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-03.01.32:434][705]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-03.01.32:599][720]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-03.01.32:774][736]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-03.01.40:319][445]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.01.40:780][488]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.01.40:931][502]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.01.41:061][514]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.01.41:212][528]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.01.41:364][542]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.01.41:523][557]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.01.41:651][569]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.01.41:816][584]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-03.01.41:946][596]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-03.01.42:077][608]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-03.01.42:221][621]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-03.01.47:984][166]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.01.48:158][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.01.48:311][196]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.01.48:450][209]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.01.48:589][222]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.01.48:728][235]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.01.48:881][249]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.01.49:021][262]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.01.49:172][276]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.01.49:334][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.01.49:484][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-03.01.49:644][320]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-03.01.49:797][334]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-03.01.49:946][348]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-03.01.50:075][360]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.01.56:355][955]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.01.56:844][  1]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.01.57:142][ 29]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.01.57:423][ 55]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.01.57:615][ 73]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.01.57:834][ 93]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.01.58:006][109]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.01.58:176][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.01.58:337][140]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-03.01.58:486][154]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-03.01.58:642][169]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-03.01.58:789][183]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-03.01.58:939][197]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.01.59:069][209]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.02.05:386][814]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.02.05:577][832]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.02.05:729][846]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.02.05:880][860]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.02.06:030][874]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.02.06:139][884]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.02.06:318][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.02.06:319][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.02.06:349][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.02.06:349][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.02.06:401][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.02.06:407][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.09-03.02.06:431][902]LogPlayLevel: Display: Destroying online subsystem :Context_270
+[2019.10.09-03.02.10:149][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-03.04.09:329][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.04.09:374][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.04.09:374][817]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.04.09:381][817]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-03.04.09:748][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.10.09-03.04.09:748][817]LogPlayLevel: PlayLevel: Blueprint regeneration took 374 ms (1 blueprints)
+[2019.10.09-03.04.09:748][817]PIE: New page: PIE session: FoodCourt (10/10/2019 5:04:09 am)
+[2019.10.09-03.04.09:748][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.04.09:752][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003089s)
+[2019.10.09-03.04.09:752][817]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.04.09:752][817]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.10.09-03.04.09:752][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003617s)
+[2019.10.09-03.04.09:799][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.09-03.04.09:805][817]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.04.09:813][817]LogInit: FAudioDevice initialized.
+[2019.10.09-03.04.09:842][817]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.04.09:845][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.04.09
+[2019.10.09-03.04.09:846][817]LogWorld: Bringing up level for play took: 0.003495
+[2019.10.09-03.04.09:862][817]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.04.09:864][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.325
+[2019.10.09-03.04.09:864][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.04.10:415][850]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.04.10:842][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.11:063][912]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.04.11:211][926]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.04.11:351][939]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.04.11:478][951]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.04.11:616][964]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.04.11:754][977]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.04.11:903][991]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.04.12:039][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.13:244][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.13:414][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.13:724][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.13:897][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.14:053][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.14:219][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.14:449][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_State". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2019.10.09-03.04.14:709][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.04.14:709][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.04.14:738][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.04.14:739][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.04.14:791][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.04.14:796][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.09-03.04.14:805][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.09-03.04.14:827][255]LogPlayLevel: Display: Destroying online subsystem :Context_271
+[2019.10.09-03.04.18:277][563]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-03.04.18:284][563]LogSlate: Window 'Message Log' being destroyed
+[2019.10.09-03.04.46:511][337]LogEditorTransaction: Undo Move Node
+[2019.10.09-03.04.46:798][346]LogEditorTransaction: Undo Create Pin Link
+[2019.10.09-03.04.47:097][358]LogEditorTransaction: Undo Move Nodes
+[2019.10.09-03.04.47:654][397]LogEditorTransaction: Undo Paste clipboard contents
+[2019.10.09-03.04.48:235][439]LogEditorTransaction: Undo Delete current selection
+[2019.10.09-03.04.48:831][482]LogEditorTransaction: Undo Break Pin Links
+[2019.10.09-03.04.49:190][501]LogEditorTransaction: Undo Break Pin Links
+[2019.10.09-03.04.49:727][538]LogEditorTransaction: Undo Break Pin Links
+[2019.10.09-03.04.50:244][573]LogEditorTransaction: Undo Move Node
+[2019.10.09-03.04.51:271][660]LogEditorTransaction: Undo Break Pin Links
+[2019.10.09-03.05.18:579][211]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2019.10.09-03.05.25:782][891]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.05.25:827][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.05.25:827][891]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.05.25:834][891]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-03.05.26:212][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.10.09-03.05.26:212][891]LogPlayLevel: PlayLevel: Blueprint regeneration took 385 ms (1 blueprints)
+[2019.10.09-03.05.26:212][891]PIE: New page: PIE session: FoodCourt (10/10/2019 5:05:26 am)
+[2019.10.09-03.05.26:213][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.05.26:216][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003285s)
+[2019.10.09-03.05.26:216][891]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.05.26:216][891]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.10.09-03.05.26:217][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003968s)
+[2019.10.09-03.05.26:266][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.09-03.05.26:272][891]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.05.26:279][891]LogInit: FAudioDevice initialized.
+[2019.10.09-03.05.26:311][891]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.05.26:313][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.05.26
+[2019.10.09-03.05.26:314][891]LogWorld: Bringing up level for play took: 0.002378
+[2019.10.09-03.05.26:329][891]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.05.26:331][891]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.153
+[2019.10.09-03.05.26:331][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.05.26:491][893]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.05.26:626][898]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.05.26:763][911]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.05.26:884][922]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.05.34:101][618]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.05.34:259][633]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.05.34:395][646]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.05.34:531][659]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.05.42:142][387]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-03.05.43:002][470]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-03.05.43:221][491]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-03.05.43:380][506]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-03.05.43:526][520]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.05.43:691][535]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.05.43:816][547]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.05.43:997][564]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.05.50:646][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.05.50:647][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.05.50:682][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.05.50:682][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.05.50:732][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.05.50:737][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.09-03.05.50:763][201]LogPlayLevel: Display: Destroying online subsystem :Context_272
+[2019.10.09-03.05.51:377][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-03.05.54:384][530]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.05.54:431][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.05.54:431][530]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.05.54:440][530]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-03.05.54:454][530]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a MyPlayerState_C, therefore ' Target ' must have a connection.
+[2019.10.09-03.05.54:456][530]LogBlueprint: Error: [Compiler FirstPersonCharacter] Variable node  Set TotalCarrotAmmo  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.10.09-03.05.54:463][530]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [7738.65] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 31 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.10.09-03.05.54:806][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.10.09-03.05.54:806][530]LogPlayLevel: PlayLevel: Blueprint regeneration took 375 ms (1 blueprints)
+[2019.10.09-03.05.54:806][530]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2019.10.09-03.05.56:240][530]LogSlate: Window 'Message' being destroyed
+[2019.10.09-03.06.03:946][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.06.03:991][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.06.03:991][221]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.06.03:998][221]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-03.06.04:363][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.09-03.06.04:363][221]LogPlayLevel: PlayLevel: Blueprint regeneration took 371 ms (1 blueprints)
+[2019.10.09-03.06.04:364][221]PIE: New page: PIE session: FoodCourt (10/10/2019 5:06:04 am)
+[2019.10.09-03.06.04:364][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.06.04:367][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003148s)
+[2019.10.09-03.06.04:367][221]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.06.04:367][221]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2019.10.09-03.06.04:367][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003642s)
+[2019.10.09-03.06.04:415][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.09-03.06.04:421][221]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.06.04:428][221]LogInit: FAudioDevice initialized.
+[2019.10.09-03.06.04:461][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.06.04:464][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.06.04
+[2019.10.09-03.06.04:465][221]LogWorld: Bringing up level for play took: 0.003165
+[2019.10.09-03.06.04:480][221]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.06.04:481][221]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt 0.308
+[2019.10.09-03.06.04:481][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.06.05:296][278]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.06.05:458][293]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.06.05:611][307]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.06.05:710][316]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.06.05:850][329]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.06.22:150][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.06.22:150][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.06.22:183][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.06.22:183][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.06.22:235][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.06.22:241][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.09-03.06.22:266][853]LogPlayLevel: Display: Destroying online subsystem :Context_273
+[2019.10.09-03.06.24:984][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-03.06.31:611][713]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.09-03.06.31:658][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.06.31:658][713]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.09-03.06.31:665][713]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.09-03.06.32:024][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.10.09-03.06.32:024][713]LogPlayLevel: PlayLevel: Blueprint regeneration took 366 ms (1 blueprints)
+[2019.10.09-03.06.32:024][713]PIE: New page: PIE session: FoodCourt (10/10/2019 5:06:32 am)
+[2019.10.09-03.06.32:025][713]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FoodCourt
+[2019.10.09-03.06.32:028][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003043s)
+[2019.10.09-03.06.32:028][713]LogAIModule: Creating AISystem for world FoodCourt
+[2019.10.09-03.06.32:028][713]LogPlayLevel: PIE: World Init took: (0.000400s)
+[2019.10.09-03.06.32:028][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FoodCourt.FoodCourt to /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt (0.003538s)
+[2019.10.09-03.06.32:075][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.09-03.06.32:081][713]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.09-03.06.32:088][713]LogInit: FAudioDevice initialized.
+[2019.10.09-03.06.32:120][713]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.09-03.06.32:123][713]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FoodCourt.FoodCourt up for play (max tick rate 0) at 2019.10.09-16.06.32
+[2019.10.09-03.06.32:124][713]LogWorld: Bringing up level for play took: 0.003973
+[2019.10.09-03.06.32:139][713]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/AI/Shooting_BB.Shooting_BB. BB Key Selector will be set to 'Invalid'
+[2019.10.09-03.06.32:141][713]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FoodCourt -0.029
+[2019.10.09-03.06.32:141][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.06.32:642][739]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.06.32:937][766]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.06.33:078][779]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.06.33:221][792]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.06.39:622][386]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.06.39:762][399]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.06.39:914][413]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.06.40:043][425]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.06.46:767][ 49]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.06.46:898][ 61]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.06.47:043][ 74]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.06.53:621][682]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2019.10.09-03.06.53:748][692]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2019.10.09-03.06.53:924][708]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.10.09-03.06.54:045][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.10.09-03.06.54:251][738]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.54:448][756]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.54:782][787]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.55:003][807]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2019.10.09-03.06.55:145][820]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2019.10.09-03.06.55:288][833]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2019.10.09-03.06.55:567][858]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2019.10.09-03.06.55:742][874]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2019.10.09-03.06.55:884][887]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2019.10.09-03.06.56:036][901]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2019.10.09-03.06.56:177][914]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.10.09-03.06.56:296][925]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.56:330][928]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.56:471][941]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.56:482][942]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.56:655][958]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.56:665][959]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.56:838][975]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.56:848][976]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not enough ammo
+[2019.10.09-03.06.57:022][992]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.57:197][  8]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.57:369][ 24]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.57:518][ 38]LogAnimation: Warning: AnimBP ABP_NewCarrotGun_C is incompatible with skeleton PotatoGunIdle__1__Skeleton, removing AnimBP from actor.
+[2019.10.09-03.06.57:679][ 53]LogAnimation: Warning: AnimBP PotatoGunAnimBP_C is incompatible with skeleton CarrotGun_idleAnim_Skeleton, removing AnimBP from actor.
+[2019.10.09-03.06.57:936][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.58:131][ 95]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.58:207][102]LogAnimation: Warning: AnimBP ABP_NewCarrotGun_C is incompatible with skeleton PotatoGunIdle__1__Skeleton, removing AnimBP from actor.
+[2019.10.09-03.06.58:305][111]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.58:488][128]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.58:519][131]LogAnimation: Warning: AnimBP PotatoGunAnimBP_C is incompatible with skeleton CarrotGun_idleAnim_Skeleton, removing AnimBP from actor.
+[2019.10.09-03.06.58:660][144]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.58:832][160]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.58:886][165]LogAnimation: Warning: AnimBP ABP_NewCarrotGun_C is incompatible with skeleton PotatoGunIdle__1__Skeleton, removing AnimBP from actor.
+[2019.10.09-03.06.59:026][178]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.59:327][206]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.59:521][224]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.59:764][246]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.06.59:954][258]LogAnimation: Warning: AnimBP PotatoGunAnimBP_C is incompatible with skeleton CarrotGun_idleAnim_Skeleton, removing AnimBP from actor.
+[2019.10.09-03.07.00:099][271]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.07.00:176][278]LogAnimation: Warning: AnimBP ABP_NewCarrotGun_C is incompatible with skeleton PotatoGunIdle__1__Skeleton, removing AnimBP from actor.
+[2019.10.09-03.07.00:382][297]LogAnimation: Warning: AnimBP PotatoGunAnimBP_C is incompatible with skeleton CarrotGun_idleAnim_Skeleton, removing AnimBP from actor.
+[2019.10.09-03.07.00:738][330]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.07.01:159][369]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.07.01:462][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.07.02:040][451]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.07.02:171][463]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Console: Not Enough Ammo
+[2019.10.09-03.07.02:354][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.07.02:354][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.07.02:386][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.09-03.07.02:386][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt' with GeneratedClass '/Game/Maps/FoodCourt.FoodCourt_C' with ClassGeneratedBy '/Game/Maps/FoodCourt.FoodCourt:PersistentLevel.FoodCourt'
+[2019.10.09-03.07.02:437][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.09-03.07.02:442][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.09-03.07.02:468][481]LogPlayLevel: Display: Destroying online subsystem :Context_274
+[2019.10.09-03.07.04:486][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-03.10.19:623][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.09-03.10.19:623][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FoodCourt' took 0.050
+[2019.10.09-03.10.19:625][511]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.09-03.10.19:644][511]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.09-03.10.19:644][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.09-03.10.19:761][511]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/FirstPersonCharacter_Auto3A8E32A7548878E0470191E829DD01905.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2019.10.09-03.10.19:762][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Player_UI] ([1] browsable assets)...
+[2019.10.09-03.10.19:762][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Player_UI]
+[2019.10.09-03.10.19:762][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_UI" FILE="../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/UI/Player_UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.10.09-03.10.19:791][511]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Player_UI_Auto391BE32324182DB30B827ACB7972952A1.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/UI/Player_UI_Auto3.uasset'
+[2019.10.09-03.10.19:791][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/MyPlayerState] ([1] browsable assets)...
+[2019.10.09-03.10.19:791][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/MyPlayerState]
+[2019.10.09-03.10.19:804][511]LogSavePackage: Moving '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/MyPlayerState_Auto3ACB693BE49A0E7B465FED9B1AC986DB0.tmp' to '../../../../Users/daniel.joo8189/Documents/GitHub/Prototype2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/MyPlayerState_Auto3.uasset'
+[2019.10.09-03.10.19:804][511]LogFileHelpers: Auto-saving content packages took 0.180
